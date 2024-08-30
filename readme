@@ -1,10 +1,10 @@
-# app-Hotel-Cocolon-
+#app-Hotel-Cocolon-
 
 -El proyecto App-Hotel-Cocolon se centra en desarrollar una aplicación para el Hotel Cocolon, diseñada para mejorar la experiencia de los huéspedes y optimizar la gestión interna del hotel. 
 El Hotel Cocolon es un establecimiento de lujo ubicado en un destino turístico popular, conocido por sus altos estándares de servicio y comodidades exclusivas.
 
 
-## Modelo relacional
+##Modelo relacional
 
 -Habitaciones: Detalles de cada habitación, como tipo, capacidad, precios y disponibilidad.
 
@@ -16,7 +16,7 @@ El Hotel Cocolon es un establecimiento de lujo ubicado en un destino turístico 
 
 -Personal: Información sobre los empleados del hotel, roles y asignaciones.
 
-## Desarollo de propuesta 
+##Desarollo de propuesta 
 
 -Reserva de Habitaciones y Gestión de Huéspedes: Desarrollar un sistema de reserva intuitivo que permita a los huéspedes seleccionar habitaciones según sus preferencias y necesidades.
 
