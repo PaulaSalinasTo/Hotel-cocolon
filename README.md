@@ -14,7 +14,6 @@ El Hotel Cocolon es un establecimiento de lujo ubicado en un destino turístico 
 
 -Servicios: Lista de servicios ofrecidos por el hotel, con información sobre precios y disponibilidad.
 
--Personal: Información sobre los empleados del hotel, roles y asignaciones.
 
 ## Desarollo de propuesta 
 
@@ -26,12 +25,9 @@ El Hotel Cocolon es un establecimiento de lujo ubicado en un destino turístico 
 -Integración con Sistemas Internos del Hotel:Integrar la aplicación con el sistema de gestión hotelera actual del Hotel Cocolon para sincronizar datos de reservas, 
   disponibilidad de habitaciones y estado de los servicios
   
--Seguridad y Privacidad:Integrar la aplicación con el sistema de gestión hotelera actual del Hotel Cocolon para sincronizar datos de reservas, 
-  disponibilidad de habitaciones y estado de los servicios.
   
 -Experiencia de Usuario (UX) y Diseño Visual: Diseñar una interfaz de usuario atractiva y fácil de usar que refleje la marca y la imagen del Hotel Cocolon.
 
--Pruebas y Mantenimiento: Realizar pruebas exhaustivas para asegurar la funcionalidad y estabilidad de la aplicación antes de su lanzamiento.
 
 
 Aquí encontraras la mejor opción en hostería 
