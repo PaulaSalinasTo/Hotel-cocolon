@@ -11,7 +11,9 @@ Este proyecto se centra en desarrollar una aplicación para el Hotel Cocolon, di
 
 - **Reservas:** Detalles de las reservas realizadas, incluyendo fechas, tipo de habitación y estado del pago
 
-- **Servicios:** Lista de servicios ofrecidos por el hotel, con información sobre precios y disponibilidad.
+- **Servicios:** Lista de servicios ofrecidos por el hotel, con información sobre precios y disponibilidad.}
+  ![image](https://github.com/user-attachments/assets/0a919e1a-4aee-4b36-9d7d-bcc0f192a3ed)
+
 
 
 ## Desarollo de propuesta 
